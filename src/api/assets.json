@@ -1,0 +1,119 @@
+[
+{
+ "AssetId": "318",
+ "Bedrooms": "1",
+ "BuildDate": "2002",
+ "YearExtended": "",
+ "Floors": [
+  {
+   "name": "Ground Floor",
+   "accomodations": [
+    "Bedroom",
+    "Entrance Hall",
+    "Living Room",
+    "Hotpress",
+    "Kitchen",
+    "Bathroom"
+   ]
+  }
+ ]
+},
+{
+ "AssetId": "320",
+ "Bedrooms": "2",
+ "BuildDate": "2002",
+ "YearExtended": "",
+ "Floors": [
+  {
+   "name": "Ground Floor",
+   "accomodations": [
+    "Bedroom",
+    "Bedroom",
+    "Entrance Hall",
+    "Living Room",
+    "Hotpress",
+    "Kitchen",
+    "Bathroom"
+   ]
+  }
+ ]
+},
+{
+ "AssetId": "321",
+ "Bedrooms": "3",
+ "BuildDate": "2002",
+ "YearExtended": "",
+ "Floors": [
+  {
+   "name": "Ground Floor",
+   "accomodations": [
+    "Bedroom",
+    "Bedroom",
+    "Bedroom",
+    "Entrance Hall",
+    "Living Room",
+    "Hotpress",
+    "Kitchen",
+    "Bathroom"
+   ]
+  }
+ ]
+},
+{
+ "AssetId": "322",
+ "Bedrooms": "2",
+ "BuildDate": "2002",
+ "YearExtended": "",
+ "Floors": [
+  {
+   "name": "Ground Floor",
+   "accomodations": [
+    "Bedroom",
+    "Bedroom",
+    "Entrance Hall",
+    "Living Room",
+    "Hotpress",
+    "Kitchen",
+    "Bathroom"
+   ]
+  }
+ ]
+},
+{
+ "AssetId": "325",
+ "Bedrooms": "1",
+ "BuildDate": "2002",
+ "YearExtended": "",
+ "Floors": [
+  {
+   "name": "Ground Floor",
+   "accomodations": [
+    "Bedroom",
+    "Entrance Hall",
+    "Living Room",
+    "Hotpress",
+    "Kitchen",
+    "Bathroom"
+   ]
+  }
+ ]
+},
+{
+ "AssetId": "328",
+ "Bedrooms": "1",
+ "BuildDate": "2002",
+ "YearExtended": "",
+ "Floors": [
+  {
+   "name": "Ground Floor",
+   "accomodations": [
+    "Bedroom",
+    "Entrance Hall",
+    "Living Room",
+    "Hotpress",
+    "Kitchen",
+    "Bathroom"
+   ]
+  }
+ ]
+}]
